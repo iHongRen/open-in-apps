@@ -18,7 +18,7 @@ macOS one-click quick action toolkit. A curated set of handy apps you can place 
 
 ## Installation
 
-1. Download and open `apps.dmg`, then drag the desired app(s) to the `Applications/` folder
+1. Download and open [apps.dmg](https://github.com/iHongRen/finder-toolbar-apps/releases), then drag the desired app(s) to the `Applications/` folder
 ![](./screenshots/apps.png)
 
 

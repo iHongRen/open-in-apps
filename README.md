@@ -18,7 +18,7 @@ macOS 一键快速操作工具包。精选实用应用，放入 Finder 工具栏
   
 ## 安装
 
-1. 下载打开 `apps.dmg`，拖拽所需 app 到 Applications/ 
+1. 下载并打开 [apps.dmg](https://github.com/iHongRen/finder-toolbar-apps/releases)，拖拽所需 app 到 Applications/ 
 ![](./screenshots/apps.png)
 
 
