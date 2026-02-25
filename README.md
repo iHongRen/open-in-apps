@@ -33,9 +33,9 @@ macOS 一键快速操作工具包。精选实用应用，放入 Finder 工具栏
    xattr -d com.apple.quarantine /Applications/xxx.app
    ```
 
-  
 
-   ## 使用
+
+## 使用
 
 在Finder中选择需要处理的文件或者文件夹，然后点击工具栏上的app就能快速处理。
 
