@@ -14,8 +14,8 @@ macOS 一键快速操作工具包。精选实用应用，放入 Finder 工具栏
   
 - **[TinyImage](https://github.com/iHongRen/TinyImage)**  图片无损压缩，减小文件大小
 
-  
-  
+![](./screenshots/finder-toolbar-apps.png)
+
 ## 安装
 
 1. 下载并打开 [apps.dmg](https://github.com/iHongRen/finder-toolbar-apps/releases)，拖拽所需 app 到 Applications/ 

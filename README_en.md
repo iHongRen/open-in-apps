@@ -14,7 +14,7 @@ macOS one-click quick action toolkit. A curated set of handy apps you can place 
 
 - **[TinyImage](https://github.com/iHongRen/TinyImage)**: lossless image compression to reduce file size
 
-
+![](./screenshots/finder-toolbar-apps.png)
 
 ## Installation
 
