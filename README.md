@@ -1,10 +1,10 @@
-# Finder 工具栏应用集
+# macOS Finder 工具栏应用集
 
 macOS 一键快速操作工具包。精选实用应用，放入 Finder 工具栏，快速处理文件。     
 
 [English README](./README_en.md)
 
-## 应用
+## 应用集
 
 - **open-in-** 系列（20+ app）快速在指定应用中打开文件/目录（VS Code、Terminal、PyCharm 等）
   

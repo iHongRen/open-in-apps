@@ -1,4 +1,4 @@
-# Finder Toolbar App Collection
+# macOS Finder Toolbar App Collection
 
 macOS one-click quick action toolkit. A curated set of handy apps you can place in the Finder toolbar to quickly operate on files.
 
