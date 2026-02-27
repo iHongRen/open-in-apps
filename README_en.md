@@ -38,3 +38,9 @@ macOS one-click quick action toolkit. A curated set of handy apps you can place 
 Select the file or folder in Finder that you want to act on, then click the app in the toolbar to perform the quick action.
 
 
+
+## FAQ
+
+**Q: What if I accidentally denied the permission prompt?**
+
+A: Go to System Settings → Privacy & Security → Automation → Find open-in-xxx.app and check "Finder" permission.
